@@ -1,0 +1,10 @@
+In this assignment, you are to review, redesign, and recode the program you had for Assignment 2 (Crazy Eights Card Game) based on the module design guidelines we discussed in class, and the appropriateness of cohesion and coupling of each method or class.  Specifically, you review and evaluate the original code to see where and how you might be able to make improvements (with the exception of the classes Card, Deck, Hand that you borrowed).  Here are the requirements:
+1)	For each class you designed, evaluate whether the class models a well-defined concept; if not, then consider either a redesign or redistribution of responsibility so you can eliminate the class.  Write the class invariant at the top of class declaration.
+2)	Evaluate each method, and do the following:
+a)	Evaluate the current level of cohesion and coupling, as well as the appropriateness of the method name and the parameters used.  Make improvements as appropriate based on the evaluation.
+b)	Include a comment at the top of the method with the following information:
+i)	The improvements you have made (if any)
+ii)	The current cohesion level of the method based on the measures we discussed in class
+iii)	The pre and post conditions of the method.  
+This is a pair assignment with one copy (to be handled in) from each pair.
+
